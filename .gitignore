@@ -171,3 +171,5 @@ modules.xml
 .nfs*
 
 # End of https://www.gitignore.io/api/linux,clojure,intellij,intellij+iml,jetbrains+all
+
+deneme/
